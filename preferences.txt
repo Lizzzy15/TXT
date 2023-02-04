@@ -1,1 +1,5 @@
-Fighting Club, pasta, autumn, South Korea
+Favorite_Film: Fighting Club,
+Favorite_TV_Shows: Game_of_Thrones,
+Favorite_Food: Pasta,
+Favorite_Season: Autumn,
+Favorite_Country: South Korea
